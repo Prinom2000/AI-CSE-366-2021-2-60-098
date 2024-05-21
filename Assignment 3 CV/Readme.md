@@ -1,4 +1,4 @@
-###To see the Report click into Report.md file.
+### To see the Report click into Report.md file.
 
 Here I used to model one is my custom CNN model. And another one is VGG16 CNN model. 
 I usud more Augmentation for VGG16 model thats why the accuracy of VGG16 model is increased. 
